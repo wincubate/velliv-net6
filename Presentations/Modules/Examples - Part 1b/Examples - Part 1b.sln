@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{EA901DAB-FDEB-4AC2-9F2A-9E4485EB05C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 - Nullable Reference Types", "05 - Nullable Reference Types\05 - Nullable Reference Types.csproj", "{4F977E5C-A63F-4BAF-BB88-BAE87D5533F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 - Switch Expression Before", "11 - Switch Expression Before\11 - Switch Expression Before.csproj", "{B543E558-71DB-455D-AC2C-F21C0395C416}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 - Property Patterns", "13 - Property Patterns\13 - Property Patterns.csproj", "{F8CFA90D-4EC5-4C3B-8327-89CEE578B886}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14 - Property Pattern Variations", "14 - Property Pattern Variations\14 - Property Pattern Variations.csproj", "{9489096E-19A9-418C-8FE3-032B159BCAF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15 - Tuple Patterns", "15 - Tuple Patterns\15 - Tuple Patterns.csproj", "{64707530-BB43-4D6E-82DE-33D88EDC3BD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16 - Positional Patterns", "16 - Positional Patterns\16 - Positional Patterns.csproj", "{F95A7279-B3EB-4F1A-84DE-EF861F5C0F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA901DAB-FDEB-4AC2-9F2A-9E4485EB05C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA901DAB-FDEB-4AC2-9F2A-9E4485EB05C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA901DAB-FDEB-4AC2-9F2A-9E4485EB05C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA901DAB-FDEB-4AC2-9F2A-9E4485EB05C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F977E5C-A63F-4BAF-BB88-BAE87D5533F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F977E5C-A63F-4BAF-BB88-BAE87D5533F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F977E5C-A63F-4BAF-BB88-BAE87D5533F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F977E5C-A63F-4BAF-BB88-BAE87D5533F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B543E558-71DB-455D-AC2C-F21C0395C416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B543E558-71DB-455D-AC2C-F21C0395C416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B543E558-71DB-455D-AC2C-F21C0395C416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B543E558-71DB-455D-AC2C-F21C0395C416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CFA90D-4EC5-4C3B-8327-89CEE578B886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CFA90D-4EC5-4C3B-8327-89CEE578B886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CFA90D-4EC5-4C3B-8327-89CEE578B886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CFA90D-4EC5-4C3B-8327-89CEE578B886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9489096E-19A9-418C-8FE3-032B159BCAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9489096E-19A9-418C-8FE3-032B159BCAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9489096E-19A9-418C-8FE3-032B159BCAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9489096E-19A9-418C-8FE3-032B159BCAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64707530-BB43-4D6E-82DE-33D88EDC3BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64707530-BB43-4D6E-82DE-33D88EDC3BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64707530-BB43-4D6E-82DE-33D88EDC3BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64707530-BB43-4D6E-82DE-33D88EDC3BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95A7279-B3EB-4F1A-84DE-EF861F5C0F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95A7279-B3EB-4F1A-84DE-EF861F5C0F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95A7279-B3EB-4F1A-84DE-EF861F5C0F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95A7279-B3EB-4F1A-84DE-EF861F5C0F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE0B2B42-CE85-4729-B8FC-F46FC08AC167}
+	EndGlobalSection
+EndGlobal
